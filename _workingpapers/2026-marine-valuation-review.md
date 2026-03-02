@@ -8,5 +8,3 @@ status: "In preparation"
 ---
 
 **Authors:** Silva-Zambrano, C., Aravena, C., Martinez-Cruz, A.
-
-This paper provides a systematic review of marine and coastal valuation studies, identifying the level of adherence to best practices The study contributes to improving robustness and transparency in applied environmental valuation research.
