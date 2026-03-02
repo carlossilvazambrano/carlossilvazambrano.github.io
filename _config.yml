@@ -230,6 +230,9 @@ collections:
   workingpapers:
     output: true
     permalink: /:collection/:path/
+  policybriefs:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -285,6 +288,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _policybriefs
+  - scope:
+      path: ""
+      type: policybriefs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
