@@ -7,4 +7,5 @@ excerpt: "Tests the Environmental Kuznets Curve hypothesis in Peru considering r
 date: 2018-01-01
 venue: "Renewable and Sustainable Energy Reviews"
 paperurl: "https://doi.org/10.1016/j.rser.2017.11.005"
+citation: ""
 ---
