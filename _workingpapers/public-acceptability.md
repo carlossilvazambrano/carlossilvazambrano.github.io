@@ -3,5 +3,5 @@ title: "Public acceptability of conservation entrance fees: How does reallocatin
 collection: workingpapers
 permalink: /workingpapers/public-acceptability
 date: 2026-01-01
-excerpt: "Job Market Paper. Examines how revenue allocation affects public support for marine conservation policies using stated preference field data from the Galapagos (n=1360)."
+excerpt: "Job Market Paper. Examines how revenue allocation affects public support for conservation entrance fee policies using mixed-methods and field data from the Galapagos (n=1360)."
 ---
