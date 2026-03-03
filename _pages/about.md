@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an environmental economist specialising in fisheries and marine conservation policy within socio-ecological systems. My research integrates stated preference methods, spatial econometrics, and mixed-method fieldwork to generate evidence guiding conservation policy design and adaptive fisheries management.
 
-I am currently a final-year PhD candidate in Economics at Heriot-Watt University and an Environmental Economist at the Charles Darwin Foundation. My doctoral research examines public acceptability and economic valuation of marine conservation policies, with fieldwork conducted in the Galapagos Islands, including large-scale in-person survey implementation (n = 1360).
+I am currently a final-year PhD candidate in Economics at Heriot-Watt University and an Environmental Economist for the Interdisciplinary Fisheries Project at the Charles Darwin Foundation. My doctoral research examines public acceptability and economic valuation of marine conservation policies, with fieldwork conducted in the Galapagos Islands, including stakeholders workshops and large-scale in-person survey implementation.
 
 ## Research Interests
 
