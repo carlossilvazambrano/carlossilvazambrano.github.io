@@ -42,25 +42,26 @@
     "vendor/font-awesome/brands"
 ;
 
----
----
+/* --- Custom overrides: make publication list text plain --- */
 
-@import "minimal-mistakes";
-
-/* Make list-view metadata and excerpts plain (publications, working papers, policy briefs) */
-.archive__item p,
+/* Excerpts should be normal weight */
 .archive__item-excerpt,
 .archive__item-excerpt p {
   font-weight: normal !important;
 }
 
-/* If markdownify introduced <strong> inside excerpts, neutralize it */
+/* If excerpt markdown contains bold/strong, neutralize it */
 .archive__item-excerpt strong,
 .archive__item-excerpt b {
   font-weight: normal !important;
 }
 
-/* Remove hover/active highlight styling from excerpt text */
+/* "Published in..." line and other archive metadata should be normal weight */
+.archive__item p {
+  font-weight: normal !important;
+}
+
+/* Remove hover styling from excerpt links (if any) */
 .archive__item-excerpt a,
 .archive__item-excerpt a:hover,
 .archive__item-excerpt a:focus {
