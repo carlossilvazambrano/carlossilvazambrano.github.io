@@ -44,7 +44,7 @@
 
 /* --- Custom overrides: make publication list text plain --- */
 
-/* Excerpts should be normal weight */
+/* Excerpts should be small weight */
 .archive__item-excerpt,
 .archive__item-excerpt p {
   font-weight: small !important;
@@ -56,9 +56,9 @@
   font-weight: small !important;
 }
 
-/* "Published in..." line and other archive metadata should be normal weight */
+/* "Published in..." line and other archive metadata should be small weight */
 .archive__item p {
-  font-weight: normal !important;
+  font-weight: small !important;
 }
 
 /* Remove hover styling from excerpt links (if any) */
