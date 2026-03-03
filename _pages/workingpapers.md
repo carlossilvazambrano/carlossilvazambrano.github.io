@@ -1,10 +1,12 @@
 ---
-layout: archive
+layout: default
 title: "Working Papers"
 permalink: /workingpapers/
-collection: workingpapers
-entries_layout: list
 author_profile: true
 ---
 
-Current working papers and research in progress.
+{% include base_path %}
+
+{% for post in site.workingpapers %}
+  {% include archive-single.html %}
+{% endfor %}
