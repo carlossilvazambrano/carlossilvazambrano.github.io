@@ -1,5 +1,5 @@
 ---
-title: "Public acceptability of conservation entrance fees: How does reallocating revenues shift support before and after policy implementation?"
+title: "Public acceptability of conservation entrance fees: Does reallocating revenues shift support before and after policy implementation?"
 collection: workingpapers
 permalink: /workingpapers/public-acceptability
 date: 2026-03-01
