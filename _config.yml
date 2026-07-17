@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Carlos Silva-Zambrano"
+title                    : "Carlos A. Silva"
 title_separator          : "-"
-name                     : &name "Carlos Silva-Zambrano"
-description: &description "Carlos Silva-Zambrano | Environmental economist | Fisheries & marine conservation | Stated preference methods"
+name                     : &name "Carlos A. Silva"
+description: &description "Carlos A. Silva | Environmental economist | Fisheries & marine conservation | Stated preference methods"
 url                      : https://carlossilvazambrano.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "Environmental economist specialising in fisheries and marine conservation policy within socio-ecological systems. I use stated preference methods, field-based data collection in Latin America, and interdisciplinary collaboration to inform conservation decision-making and fisheries management"
+  bio              : "Environmental economist specialising in fisheries, marine conservation policy and sustainable development within socio-ecological systems. I use stated preference methods, causal inference, and interdisciplinary approaches to inform conservation strategies, fisheries management, and sustainable development policies"
   location         : "Edinburgh, UK"
   employer         : "Heriot-Watt University"
   uri              : # URL
