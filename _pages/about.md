@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carlos Silva-Zambrano | Environmental Economist"
+title: "Carlos A. Silva | Environmental Economist"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,4 +23,4 @@ I am currently a final-year PhD candidate in Economics at Heriot-Watt University
 
 You can download my full CV here:
 
-[Download CV (PDF)](/files/Carlos_Silva_Zambrano_CV.pdf)
+[Download CV (PDF)](/files/Carlos_A_Silva_CV.pdf)
