@@ -2,7 +2,7 @@
 title: "Public acceptability of conservation entrance fees: Does reallocating revenues shift support before and after policy implementation?"
 collection: workingpapers
 permalink: /workingpapers/public-acceptability
-date: 2026-03-01
+date: 2026-07-15
 excerpt: "PhD Paper. Examines how revenue allocation affects public support for conservation entrance fee policies using mixed-methods and field data from the Galapagos (n=1360), before and after policy change."
 paperurl: "https://carlossilvazambrano.github.io/files/public-acceptability-event-study.pdf"
 ---
